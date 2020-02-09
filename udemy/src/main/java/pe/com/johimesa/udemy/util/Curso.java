@@ -11,4 +11,7 @@ public class Curso {
 		System.out.println("especialidad: " + especialidad);
 		System.out.println("stock: " + stock);
 	}
+	
+	private String materia;
+	private String docente;
 }
