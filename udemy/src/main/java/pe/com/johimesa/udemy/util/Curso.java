@@ -8,7 +8,6 @@ public class Curso {
 	private void pintar() {
 		System.out.println("nombre: " + nombre);
 		System.out.println("especialidad: " + especialidad);
-		System.out.println("stock: " + stock);
 	}
 	
 	private String materia;
